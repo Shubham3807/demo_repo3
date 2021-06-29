@@ -2,5 +2,6 @@
 demo of merge conflict
 ## subheader
 subheader created using feature-branch-a
-## subheader 
-subheader added using feature-barnch-b
+## subheader
+subheader added using feature-branch-c
+
